@@ -1,2 +1,2 @@
-print("hello git")
-print("que tal todo?")
+temperatura = input("Ingresa temperatura: ")
+print("hello github")
